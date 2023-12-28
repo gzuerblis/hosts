@@ -1,5 +1,5 @@
 Title: Wixhosts
-#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/podejrzane_inne_oszustwa.txt => hosts
+#@ >>>>>>>> https://raw.githubusercontent.com/gzuerblis/hosts/main/adhosts.txt => hosts
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 3vulkanvegas.com
 0.0.0.0 4fcom.top
