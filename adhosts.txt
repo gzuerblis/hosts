@@ -1,0 +1,9 @@
+Title: Wixhosts
+#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/podejrzane_inne_oszustwa.txt => hosts
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 3vulkanvegas.com
+0.0.0.0 4fcom.top
+0.0.0.0 4ksport.pl
+0.0.0.0 4life.com
+0.0.0.0 4shoes.pl
+0.0.0.0 4vulkanvegas.com
